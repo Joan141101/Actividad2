@@ -1,0 +1,160 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+.texto{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    text-align: center;
+    border-color: black;
+}
+
+body{
+    width: 1000px;
+    height: 950px;
+    margin: auto;
+    margin-top: 5px;
+    border: solid;
+
+}
+
+nav{
+    height: 100px;
+    width: 1000px;
+    background-color: yellowgreen;
+    
+
+}
+
+.caja{
+    padding: 5px;
+     align-items: center;
+    justify-content: center;
+    display: flex;
+    text-align: center;
+    border-color: black;
+}
+
+#box{
+    height: 70px;
+    width: 172px;
+    background-color: white;
+    margin: 10px;
+    float: left;
+}
+
+#box1{
+    height: 70px;
+    width: 172px;
+    background-color: white;
+    margin: 10px;
+    float: left;
+}
+
+#box2{
+    height: 70px;
+    width: 172px;
+    background-color: white;
+    margin: 10px;
+    float: left;
+}
+
+#box3{
+    height: 70px;
+    width: 155px;
+    background-color: white;
+    margin: 9px;
+    float: left;
+}
+
+#lok{
+    height: 70px;
+    width: 172px;
+    background-color: white;
+    margin: 9px;
+    float: left;
+}
+header{
+    height: 300px;
+    width: 1000px;
+    background-color: blue;
+    
+    
+
+}
+
+#banner{
+    height: 295px;
+    width: 795px;
+    float: left;
+    background-color: white;
+    margin: 2px;
+
+}
+
+#logo{
+    height: 97px;
+    width: 195px;
+    background-color: white;
+    float: left;
+    margin: 1px;
+    
+}
+
+#login{
+    height: 97px;
+    width: 195px;
+    background-color: white;
+    float: left;
+    margin: 1px;
+
+}
+
+#form{
+    height: 97px;
+    width: 195px;
+    background-color: white;
+    float: left;
+    margin: 1px;
+
+}
+
+main{
+    height: 500px;
+    background-color: gray;
+    
+}
+
+#ladoIzquierdo{
+    height: 495px;
+    width: 225px;
+    background-color: white;
+    float: left;
+    margin: 2px;
+
+
+}
+
+#article{
+    height: 495px;
+    width: 525px;
+    background-color: white;
+    float: left;
+    margin: 2px;
+}
+
+#ladoDerecho{
+    height: 495px;
+    width: 235px;
+    background-color: white;
+    float: left;
+    margin: 2px;
+}
+
+footer{
+    height: 50px;
+    background-color: yellow;
+    
+}
